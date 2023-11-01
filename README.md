@@ -1,6 +1,6 @@
 # ComfortableMexicanSofa
 
-ComfortableMexicanSofa is a powerful Ruby on Rails 5.2+ CMS (Content Management System) Engine
+ComfortableMexicanSofa is a powerful Ruby on Rails 7 CMS (Content Management System) Engine
 
 [![Gem Version](https://img.shields.io/gem/v/comfortable_mexican_sofa.svg?style=flat)](http://rubygems.org/gems/comfortable_mexican_sofa)
 [![Gem Downloads](https://img.shields.io/gem/dt/comfortable_mexican_sofa.svg?style=flat)](http://rubygems.org/gems/comfortable_mexican_sofa)
@@ -10,7 +10,7 @@ ComfortableMexicanSofa is a powerful Ruby on Rails 5.2+ CMS (Content Management 
 
 ## Features
 
-* Simple drop-in integration with Rails 5.2+ apps with minimal configuration
+* Simple drop-in integration with Rails 7 apps with minimal configuration
 * CMS stays away from the rest of your application
 * Powerful page templating capability using [Content Tags](https://github.com/comfy/comfortable-mexican-sofa/wiki/Docs:-Content-Tags)
 * [Multiple Sites](https://github.com/comfy/comfortable-mexican-sofa/wiki/Docs:-Sites) from a single installation
